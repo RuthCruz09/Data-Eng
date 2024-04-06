@@ -1,5 +1,4 @@
-# Comisión 56035
-# Data Engineering
+# Data Engineering             # Comisión 56035 
 # Alumna: Ruth Cruz
 
 
@@ -7,7 +6,7 @@
 
 ### Objetivo 
 
-EL proposito de del siguiente proyectos es implementar todo lo aprendido en el curso. Construir de comienzo a fin un Data Pipeline.
+EL proposito del siguiente proyectos es implementar todo lo aprendido en el curso. Construir de comienzo a fin un Data Pipeline.
 
 ### Tecnologias Implementadas: 
 * Vs Code 
